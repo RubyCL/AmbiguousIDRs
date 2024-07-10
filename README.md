@@ -7,6 +7,10 @@ This repository contains the ambiguous implicit discourse relations dataset for 
 - **data/ambiguous_relations.csv**: The primary dataset file containing examples of ambiguous implicit discourse relations for English.
 - **README.md**: A detailed description of the dataset, including the structure and annotations.
 
+## Copyright and License
+
+AmbiguousIDRs © 2023 by Ahmed Ruby, Sara Stymne and Christian Hardmeier is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Reference
 If you use this resource, please consider citing:
 ```plaintext
