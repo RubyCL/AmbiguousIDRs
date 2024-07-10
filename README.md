@@ -1,11 +1,11 @@
 ## A Dataset for Ambiguous Implicit Discourse Relations
 
-This repository contains the ambiguous implicit discourse relations dataset for English.
+This repository contains the ambiguous implicit discourse relations dataset for English. It includes paired examples with ambiguous implicit relations alongside two different preceding context sentences, each forcing either a causal or concessive reading.
 
 ## Dataset Contents
 
-- **data/ambiguous_relations.csv**: The primary dataset file containing examples of ambiguous implicit discourse relations.
-- **data/README.md**: A detailed description of the dataset, including the structure and annotations.
+- **data/ambiguous_relations.csv**: The primary dataset file containing examples of ambiguous implicit discourse relations for English.
+- **README.md**: A detailed description of the dataset, including the structure and annotations.
 
 ## Reference
 If you use this resource, please consider citing:
