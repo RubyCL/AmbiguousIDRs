@@ -1,66 +1,66 @@
-Context,Target
-The car is very cheap.,"It's 100,000. I'll buy it."
-The car is very expensive.,"It's 100,000. I'll buy it."
-,
-She prefers tall men. ,John is tall. She will ask him out.
-She prefers short men. ,John is tall. She will ask him out.
-,
-She loves pineapple. ,Hawaii pizza has pineapple. She feels like having some.
-She has an allergy to fruits. ,Hawaii pizza has pineapple. She feels like having some.
-,
-He is very good at driving trucks. ,The job advertised was for a truck driver. He applied for it.
-He really did not enjoy driving trucks. ,The job advertised was for a truck driver. He applied for it.
-,
-He usually wears a size extra large. ,This T-shirt is a size Large. It feels really tight.
-He usually wears a size large. ,This T-shirt is a size Large. It feels really tight.
-,
-She likes eating green apples. ,The apple is green. She ate it.
-She likes red apples. ,The apple is green. She ate it.
-,
-Shoes with laces give my feet more support. ,These shoes are lace-up shoes. I will buy them.
-I usually prefer slip-on shoes. ,These shoes are lace-up shoes. I will buy them.
-,
-I like to see the beauty of gear movements. ,This is an analog clock. I will take it.
-Digital clock gives me what I need fastest. ,This is an analog clock. I will take it.
-,
-I usually prefer dubbed series over subtitled series. ,This series is dubbed. I'm going to watch it.
-I usually prefer subtitled series over dubbed series. ,This series is dubbed. I'm going to watch it.
-,
-Literally Pepsi Zero is one of my favorite drinks ever. ,This is Pepsi zero. I will drink it.
-I prefer Pepsi light. ,This is Pepsi zero. I will drink it.
-,
-I got really fed up with the low-fat products his mum always buys.,This milk is full-fat milk. I feel like having some.
-Full-fat dairy products cause me flatulence.,This milk is full-fat milk. I feel like having some.
-,
-He is a big fan of romantic movies.,The next movie is romance. He will watch it.
-He is not a fan of romantic movies.,The next movie is romance. He will watch it.
-,
-I usually prefer to work with the old generation of actors. ,Most of the characters of the series are from the old generation. I was excited to participate in this series.
-I usually prefer to work with the new generation of actors. ,Most of the characters of the series are from the old generation. I was excited to participate in this series.
-,
-He prefers long movies.,The movie was only 30 minutes. He did not like it.
-He prefers short movies.,The movie was only 30 minutes. He did not like it.
-,
-The doctor told him to stop taking these tablets because they upset his digestion.,He was taking them every meal. He was feeling horribly sick after eating.
-The doctor said these tablets would help against his indigestion.,He was taking them every meal. He was feeling horribly sick after eating.
-,
-I lost all my money in the stock market. ,This has completely changed my financial situation. I want to spend less money than I used to.
-I made a lot of money on the stock exchange. ,This has completely changed my financial situation. I want to spend less money than I used to.
-,
-He’s finally started doing something against his obesity. ,He lost lots of weight. He feels good about himself.
-His cancer got a lot worse. ,He lost lots of weight. He feels good about himself.
-,
-The union had asked for a 5% salary increase because of the high inflation. ,The CEO announced this wasn't going to happen. The staff were upset.
-There had been fears the usual yearly bonus would be canceled this year. ,The CEO announced this wasn't going to happen. The staff were upset.
-,
-I usually like my steaks rare. ,The steak that was served to me yesterday was rare. I liked it.
-I usually like my steaks well done. ,The steak that was served to me yesterday was rare. I liked it.
-,
-I love the meat at the university restaurant. ,Today there will be meat. I'm going to the restaurant.
-The meat at the university restaurant is not the best thing. ,Today there will be meat. I'm going to the restaurant.
-,
-He likes to travel to Alexandria only in the summer. ,The work will organize a trip this summer to Alexandria. He will go with them.
-He doesn't like to travel to Alexandria in the summer. ,The work will organize a trip this summer to Alexandria. He will go with them.
-,
-I really like mint. ,This tea had mint in it. I drank it.
-I do not like mint.,This tea had mint in it. I drank it.
+Context,Target,Relation
+The car is very cheap.,"It's 100,000. I'll buy it.",Causal
+The car is very expensive.,"It's 100,000. I'll buy it.",Concessive
+,,
+She prefers tall men. ,John is tall. She will ask him out.,Causal
+She prefers short men. ,John is tall. She will ask him out.,Concessive
+,,
+She loves pineapple. ,Hawaii pizza has pineapple. She feels like having some.,Causal
+She has an allergy to fruits. ,Hawaii pizza has pineapple. She feels like having some.,Concessive
+,,
+He is very good at driving trucks. ,The job advertised was for a truck driver. He applied for it.,Causal
+He really did not enjoy driving trucks. ,The job advertised was for a truck driver. He applied for it.,Concessive
+,,
+He usually wears a size extra large. ,This T-shirt is a size Large. It feels really tight.,Causal
+He usually wears a size large. ,This T-shirt is a size Large. It feels really tight.,Concessive
+,,
+She likes eating green apples. ,The apple is green. She ate it.,Causal
+She likes red apples. ,The apple is green. She ate it.,Concessive
+,,
+Shoes with laces give my feet more support. ,These shoes are lace-up shoes. I will buy them.,Causal
+I usually prefer slip-on shoes. ,These shoes are lace-up shoes. I will buy them.,Concessive
+,,
+I like to see the beauty of gear movements. ,This is an analog clock. I will take it.,Causal
+Digital clock gives me what I need fastest. ,This is an analog clock. I will take it.,Concessive
+,,
+I usually prefer dubbed series over subtitled series. ,This series is dubbed. I'm going to watch it.,Causal
+I usually prefer subtitled series over dubbed series. ,This series is dubbed. I'm going to watch it.,Concessive
+,,
+Literally Pepsi Zero is one of my favorite drinks ever. ,This is Pepsi zero. I will drink it.,Causal
+I prefer Pepsi light. ,This is Pepsi zero. I will drink it.,Concessive
+,,
+I got really fed up with the low-fat products his mum always buys.,This milk is full-fat milk. I feel like having some.,Causal
+Full-fat dairy products cause me flatulence.,This milk is full-fat milk. I feel like having some.,Concessive
+,,
+He is a big fan of romantic movies.,The next movie is romance. He will watch it.,Causal
+He is not a fan of romantic movies.,The next movie is romance. He will watch it.,Concessive
+,,
+I usually prefer to work with the old generation of actors. ,Most of the characters of the series are from the old generation. I was excited to participate in this series.,Causal
+I usually prefer to work with the new generation of actors. ,Most of the characters of the series are from the old generation. I was excited to participate in this series.,Concessive
+,,
+He prefers long movies.,The movie was only 30 minutes. He did not like it.,Causal
+He prefers short movies.,The movie was only 30 minutes. He did not like it.,Concessive
+,,
+The doctor told him to stop taking these tablets because they upset his digestion.,He was taking them every meal. He was feeling horribly sick after eating.,Causal
+The doctor said these tablets would help against his indigestion.,He was taking them every meal. He was feeling horribly sick after eating.,Concessive
+,,
+I lost all my money in the stock market. ,This has completely changed my financial situation. I want to spend less money than I used to.,Causal
+I made a lot of money on the stock exchange. ,This has completely changed my financial situation. I want to spend less money than I used to.,Concessive
+,,
+He’s finally started doing something against his obesity. ,He lost lots of weight. He feels good about himself.,Causal
+His cancer got a lot worse. ,He lost lots of weight. He feels good about himself.,Concessive
+,,
+The union had asked for a 5% salary increase because of the high inflation. ,The CEO announced this wasn't going to happen. The staff were upset.,Causal
+There had been fears the usual yearly bonus would be canceled this year. ,The CEO announced this wasn't going to happen. The staff were upset.,Concessive
+,,
+I usually like my steaks rare. ,The steak that was served to me yesterday was rare. I liked it.,Causal
+I usually like my steaks well done. ,The steak that was served to me yesterday was rare. I liked it.,Concessive
+,,
+I love the meat at the university restaurant. ,Today there will be meat. I'm going to the restaurant.,Causal
+The meat at the university restaurant is not the best thing. ,Today there will be meat. I'm going to the restaurant.,Concessive
+,,
+He likes to travel to Alexandria only in the summer. ,The work will organize a trip this summer to Alexandria. He will go with them.,Causal
+He doesn't like to travel to Alexandria in the summer. ,The work will organize a trip this summer to Alexandria. He will go with them.,Concessive
+,,
+I really like mint. ,This tea had mint in it. I drank it.,Causal
+I do not like mint.,This tea had mint in it. I drank it.,Concessive
